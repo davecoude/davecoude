@@ -1,23 +1,23 @@
-<h1 align="center"> Hey ⚡, I'm Diego Vanegas </h1>
+<h1 align="center"> Hey ⚡, Soy Diego Vanegas </h1>
 
 <p align="center">
 <a href="https://github.com/davecoude" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=flat-square&logo=github&logoColor=white&labelColor=181717?&color=181717" alt="Github"><a href="https://www.linkedin.com/in/davanegas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white?&labelColor=0A66C2?&color=0A66C2" alt="LinkedIn"><a href="https://twitter.com/_dave444" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2?&color=1DA1F2" alt="Twitter"><a href="https://www.figma.com/@daave" target="_blank"><img src="https://img.shields.io/badge/Figma-%230077B5.svg?&style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E?&color=F24E1E" alt="Figma"><a href="https://open.spotify.com/user/diegovaneegas?si=11c0f05d70524ddd" target="_blank"><img src="https://img.shields.io/badge/Spotify-%230077B5.svg?&style=flat-square&logo=spotify&logoColor=white&labelColor=1DB954?&color=1DB954" alt="Spotify">
 </p>
 
 
-<h2 align="center"> An awesome React Developer </h2>
-<h3> 🤔 About me</h3>
+<h2 align="center"> Desarrollo en React Js 💙 </h2>
+<h3> 🤔 Sobre mi</h3>
 <ul>
-	<li><strong>Working:</strong> Web development 💻</li>
-	<li><strong>Learning:</strong> React Js⚛️</li>
-	<li><strong>Hobbies:</strong> Books📖 | Basketball🏀</li>
-	<li><strong>Ask me about:</strong> Anything, I'm happy to help 🤟🏻</li>
-	<li><strong>Fun fact:</strong> When most developer loves coffee😅 But, I prefer pizza🍕</li>
+	<li><strong>Trabajando:</strong> Desarrollo Web 💻</li>
+	<li><strong>Aprendiendo:</strong> React Js ⚛️ | Astro 🚀</li>
+	<li><strong>Hobbies:</strong> Libros 📖 | Basketball 🏀</li>
+	<li><strong>Preguntame:</strong> Cualquier cosa, soy feliz de ayudar 🤟🏻</li>
+	<li><strong>Hecho gracioso:</strong> La mayoria de desarrolladores aman el cafe😅 pero yo, prefiero la pizza🍕</li>
 </ul>
 
 
 <h2 align="center">
-  Tools I use & love that you should check out.
+  Herramientas que uso y amaria que hecharas un vistazo
 </h2>
 <p align="center">
 <code><img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code> &nbsp;&nbsp;
