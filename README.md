@@ -9,7 +9,7 @@
 <h3> 🤔 Sobre mi</h3>
 <ul>
 	<li><strong>Trabajando:</strong> Desarrollo Web 💻</li>
-	<li><strong>Aprendiendo:</strong> React Js ⚛️ | Astro 🚀</li>
+	<li><strong>Aprendiendo:</strong> React Js ⚛️ | Node Js 🍃</li>
 	<li><strong>Hobbies:</strong> Libros 📖 | Basketball 🏀</li>
 	<li><strong>Preguntame:</strong> Cualquier cosa, soy feliz de ayudar 🤟🏻</li>
 	<li><strong>Hecho gracioso:</strong> La mayoria de desarrolladores aman el cafe😅 pero yo, prefiero la pizza🍕</li>
